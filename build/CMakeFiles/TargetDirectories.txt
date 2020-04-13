@@ -1,0 +1,3 @@
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/build/CMakeFiles/rebuild_cache.dir
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/build/CMakeFiles/edit_cache.dir
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/build/CMakeFiles/traffic_simulation.dir

@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/Intersection.cpp
+iostream
+-
+thread
+-
+chrono
+-
+future
+-
+random
+-
+mutex
+-
+Street.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/Street.h
+Intersection.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/Intersection.h
+Vehicle.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/Vehicle.h
+
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/Intersection.h
+vector
+-
+future
+-
+mutex
+-
+memory
+-
+TrafficObject.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/TrafficObject.h
+
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/Street.h
+TrafficObject.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/TrafficObject.h
+
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/TrafficObject.h
+vector
+-
+thread
+-
+mutex
+-
+
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/Vehicle.cpp
+iostream
+-
+random
+-
+mutex
+-
+Street.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/Street.h
+Intersection.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/Intersection.h
+Vehicle.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/Vehicle.h
+
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/Vehicle.h
+TrafficObject.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrency-L3/src/TrafficObject.h
+
